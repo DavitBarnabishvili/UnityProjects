@@ -1,0 +1,4210 @@
+fileFormatVersion: 2
+guid: 15ac5d68c3cd1284c98a985022fab281
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anyrgb.com_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 695
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f042f7152ebdbc2419dc5c76a981cadf
+      internalID: -1493456490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 695
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844eaa2aec95e56409005c1663cf33af
+      internalID: 1977182864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 695
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3da8887df89554f830b7ba46b9e20d
+      internalID: 1219895083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 695
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f4ad669e7cadc408cb3e5e5ad9d132
+      internalID: -273383468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 695
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a255cfc8082932c4b887ab0242d9e333
+      internalID: -815324071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 695
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6ba51b4213e3d44a0cd052f20e32d1
+      internalID: -176091056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 695
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a778cd8334b6740a7a916be75c9aec
+      internalID: 1368061945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_7
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 695
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46891d873ffbd9c429f8b0abca5c3d64
+      internalID: -505722183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_8
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 695
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb7e10d71632fc498c12ede1784d944
+      internalID: -2026673047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 695
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1be49c69974b6409b0e4f65f94e410
+      internalID: -692722066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_10
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 695
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826c8dc447850124b8086a7243888802
+      internalID: 365568175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 695
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c41d02b0d9f66419960498bd5fc42f
+      internalID: 1349350779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 645
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62ef84c11c19b342b3f641ae8d921d3
+      internalID: -2147280756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 645
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c974d0039ab79f4385c137513f46cb5
+      internalID: 1295091038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 645
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270c03442eee5df468a64e18fa040acb
+      internalID: -1466666343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 645
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142fee43a59232e47af8f6129ae52671
+      internalID: 666322357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 645
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb66c2a3a8a43a46b1b97bf608b3b33
+      internalID: -2029581011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 645
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad85e46189e2ff14992f56338d14c1c2
+      internalID: 1549527431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 645
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b18cde1cee0dd4abd65b1bd8eabb04
+      internalID: -763582352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_19
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 645
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05c72a788ad21c4a9f64af8aeb44b5e
+      internalID: -200900398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_20
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 645
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f625bb69bd53991448d0493148de7f74
+      internalID: -1882603288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 645
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e11ac13ef91324ba8fd044d37203af
+      internalID: -1561165692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_22
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 645
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd18f366000745c4eabbd9a711b3f016
+      internalID: -1969747884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_23
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 645
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e36fe40292ab924eac1acf4d1c4682d
+      internalID: -118981337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aaa0e58812d0b4ab1ae53df6ea22d7
+      internalID: 1863405473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fd31acde069c54394c8421981107f4
+      internalID: -971396278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c05bac33fb6c04c819a4c3f8eb0d75
+      internalID: -1018531738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c688f52eef23f0b41ac9f79e0812e780
+      internalID: -1304764161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c6b9446b13c6c4e8be2494d65cd360
+      internalID: 748244671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a2ca0b2dc0ef04e8467d40d7171e16
+      internalID: -97762437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_30
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d795146347b2f9d4796f415bd266b5b8
+      internalID: 2062399851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e91671f0a09644f9ac339b7b0a8aff
+      internalID: 904311112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b087459f9c4229d4ea38ac01625cbd90
+      internalID: -626913786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_33
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e610fe60c64b16e4283c83483ddd1c18
+      internalID: 2063254179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb21e3228d836ec4781d12f2e1a2dbdd
+      internalID: -2076310919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_35
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf0da535dd1d094e8330fdc8486825f
+      internalID: 2065100913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_36
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8371d026226ca534e97d30cf1422e48f
+      internalID: 1694489469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0760088e797931c42a8066c71a1a05e4
+      internalID: -1401560796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_38
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 595
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8712a78c7134023469a23ea10b0b94a8
+      internalID: 412854241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 545
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248de4be8ed1af047bada05abbaf390f
+      internalID: 1770170530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 545
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2860ec53dd4f8934dac7f4f2fbda8eef
+      internalID: -913137023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_41
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 545
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc4bbe030ee70543ac9f789d08ad71e
+      internalID: 728374628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 545
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906844845479595499d76da2bcd6fe4c
+      internalID: 127144478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 545
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c543573b96b71945b5ebdb2664cbefa
+      internalID: -107555389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 545
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c461de9cf326e54695352e1bbb5dd3c
+      internalID: -1114431630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_45
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 545
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596a9deb500fbb74780cc3f3a91dec65
+      internalID: -564897091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_46
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 545
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa94a3ca1f789844b8c19f1841084b58
+      internalID: -612932584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_47
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 545
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b18a15fdd3e3dc4c86e3009dcab9c69
+      internalID: -1420572869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_48
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 545
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf303b9efdc2074abfe02f87b957d02
+      internalID: -1852196707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_49
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 545
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb88b3003121ccb49b1a26433c731e5f
+      internalID: 2033073926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 495
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366754b2fcb51ce4cae29784671d80b2
+      internalID: -1105988030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 495
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af62c21f5fecc142b769886e6bbd22c
+      internalID: 1024484544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_52
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 495
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2557bc968677a84ab28f9d8d583cdee
+      internalID: 163838283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 495
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc0c9b3aca862e4a9b2d33b7035b082
+      internalID: -229379156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 495
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2a7514319cb2b478410137c841d509
+      internalID: 1254493823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 495
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2abad4c965984488442a3044267399
+      internalID: 661247791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_56
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 495
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f277f9271288343a1769024ffd7d27
+      internalID: -643690096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 495
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883bf6a973ed29643af072e09ec48743
+      internalID: 659165273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_58
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 495
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2cee66abe861542ae66ee4d3c1df3d
+      internalID: 1982185828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 495
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcc53edbf1d52043b62e3a4106e6a6f
+      internalID: 1345102817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 495
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d07d5d55a7666439e4ed8d0933cf87
+      internalID: -1535475405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_61
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 495
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f97c4747052724bb4a488fbc19d6ee
+      internalID: -426316937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_62
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 495
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c6872e9f4faac4d88cbda3e4a038f7
+      internalID: 1078038819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 495
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3551ba382033c2448e547402e46346a
+      internalID: 1370062184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 445
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975ffc54055ba6f4f83fad342b3861a4
+      internalID: 1200347604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 445
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7af61e68df6d2245a7d542bfe713375
+      internalID: -1315534739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_66
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 445
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f5be7ec2b29544b1dacbf47ddfba0
+      internalID: 1124271654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_67
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 445
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9be1b2f7e4fbd24bb69c2a869b03575
+      internalID: -1874559800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_68
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 445
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9deafe6db8e2b44b881b403249ba8e
+      internalID: -2035023247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 445
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee81256b78b9948448280a857b037bb2
+      internalID: 2101895858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_70
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 445
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4137ed1664059e40a6e5be03306a8ad
+      internalID: 1701113140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_71
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 445
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a792c387169d4a44e995a1c3e13fde0d
+      internalID: -182817141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_72
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 445
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23caf081e9c718b4e801cb2958129904
+      internalID: 1348630407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_73
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 445
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fa963e84dcac240b506152934ba346
+      internalID: -1571907789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_74
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 445
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9827cebe7d3ab1f45aaeff5de348d4dc
+      internalID: -118237011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_75
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 445
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc740b8981b94b4ba154f110074f54d
+      internalID: -505164296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_76
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 445
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71992810cba37454c8da6cc9b2d4ba22
+      internalID: 1227608400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 445
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e659df571d5cd4a9ce5e5e5e3d9428
+      internalID: -1025893018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_78
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 395
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e80270d66da0a40807f1331280a6da
+      internalID: 1432845690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 395
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a927a5ccb738c7a47bb26dac9aa487dc
+      internalID: 1659607955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_80
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 395
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efe33524c36d254e96d79c73bdfb671
+      internalID: 885849513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 395
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ec3cb714d23f43891f526f72d607f
+      internalID: 2003494788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_82
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 395
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f02f74c6a9909c4cacfee28662d2a39
+      internalID: 94812706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 395
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eb8efce8ccbf841be7724a0091f67b
+      internalID: 1004006408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_84
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 395
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dcab7c333e9244ca0a36ee670400ea
+      internalID: -298760451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_85
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 395
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaae2625e9a9a1348abc8a1b5a08073f
+      internalID: -1952550415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_86
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 395
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2777a83842dc1974382d2469e2db0c20
+      internalID: 437861695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_87
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 395
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30666adbfbb7e846922efdae23c3475
+      internalID: 605428137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_88
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 395
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e07811b4df350044a013a5f8ca3c205
+      internalID: -1140044067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_89
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 395
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aa56fa72484194c843f54473c6008d
+      internalID: -1108461527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_90
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 395
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852ba1eac9f263f45b512fe01e9a60fa
+      internalID: 413597644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_91
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 395
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a59296e195163438232dcb9918d447
+      internalID: -447699933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_92
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 345
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824ec92119f36bf448823b3bf6377945
+      internalID: 1181319714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 345
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a739b68cb76a29742a31badb1179a8a8
+      internalID: -264239814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_94
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 345
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e037aad5b14f65946adda7c48c79e705
+      internalID: 806002795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 345
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2661558e2083742a73d221d253940f
+      internalID: -587789144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_96
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 345
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1c73e55f951724dbc9e62880d25fca
+      internalID: 1214582871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_97
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 345
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51772932bde1df4faed07ce6fb1a538
+      internalID: -3580586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_98
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 345
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207b63c6110eff040b6d0c250fc1b0f6
+      internalID: 1829747139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_99
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 345
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5394cf26a6b38e440b05f3d110f37f3f
+      internalID: 1673755490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_100
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 345
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45bac2e68091b74099f046762d83132
+      internalID: -456786372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_101
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 345
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14058dd85151fe046abb434f12690328
+      internalID: 988415975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_102
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 345
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c62eab227729c146a22c3238c387bc8
+      internalID: 1021388074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_103
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 345
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493561868e957654caa0b1ca7a7c5b89
+      internalID: -186172617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_104
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 295
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26e09273b43e7b4097064bfb3cb58f8
+      internalID: -476651589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 295
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b19aa36e65e62f4594567c6d60a27d3
+      internalID: 897092887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_106
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 295
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f97658e5770e540bd742c415e5bcd6
+      internalID: -1376101161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_107
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 295
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ffe3d039e2d5b41a0bdb35167c4e6f
+      internalID: 239509860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_108
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 295
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c576bc669c0e26a478a9b3e9a2072915
+      internalID: -1462462012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 295
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a084069cacd1c9489f7e3f88c793c7a
+      internalID: 1195528977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_110
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 295
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c22439ea39ad604b8577ba432555097
+      internalID: 2070934221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_111
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 295
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262108f38215bdb4897499828e532c78
+      internalID: -708869534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_112
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 295
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af7381d9c169e34fb95cdefd72eb8b6
+      internalID: 1967724191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_113
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 295
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ccc27bbcaa1e949a8687d682180184
+      internalID: -668296371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_114
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 295
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0b7b0f164b71b4b93a88d81496d488
+      internalID: -60808007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_115
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 295
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b1d70f2b21fef43aaacb5335868b61
+      internalID: 873669497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_116
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49a744a210763b42a2f099d3fbe8e19
+      internalID: 2110784567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_117
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66d87789bd2b8c498f1048995e0d0fd
+      internalID: 2164038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_118
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89965141da863454b859a1e96a47c397
+      internalID: -1152141836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_119
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3030d621da73d458e2b3db6b5948e5
+      internalID: -502622776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_120
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0ac820fa1871f47b3f153e2d54a34e
+      internalID: -2047859370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_121
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47137ef326ac0c41a59edda57b5e756
+      internalID: 94006258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_122
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c46e37b750b46248b17f61eece02115
+      internalID: -1479134676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_123
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1b6d9f2a8fbbb43b7a17b0fcbb64a9
+      internalID: 1716052138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_124
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd78a2a99f631ec4eab07385626dbfe6
+      internalID: -787753899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_125
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948683b0bc279ac4ab2d720f3c9ec6dd
+      internalID: -1557563025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dca0440441f2d54786b518d958e501d
+      internalID: -1423627493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_127
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3385f3c7ff761d546b43a3242820bc9f
+      internalID: -272082716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_128
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfaf3b9558c29941a4d06414954ffc8
+      internalID: -954254018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_129
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab58c5c0022aca54592e17fc07f8c96e
+      internalID: -262941885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_130
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9052b4b8b6392d344bd8ae966aca7408
+      internalID: 1252775852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_131
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfaf23841bec2f4fb1586b74893941b
+      internalID: -345439750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_132
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 195
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d186a68c58f57648a17857a0198f470
+      internalID: -1610762485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 195
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea27754134c2ac4dabe592bfd5f0120
+      internalID: -140707270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_134
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 195
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f300d7fcdac57a840916baa4004235e0
+      internalID: -1334332386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_135
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 195
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ec5f43ac4d7424a8f3167400b3e131
+      internalID: 1858741050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_136
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 195
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b5213dc0f1c4045a0ca561a7473e30
+      internalID: 1738086815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_137
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 195
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8bfa35407944241af1a08365719b78
+      internalID: 1326413401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_138
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 195
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d9f0e99401adb44b1209db6d033a9b
+      internalID: -1349876364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_139
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 195
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1834d1d49933d4a8a8b05c57982f60
+      internalID: 1180685487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_140
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 195
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22301dcf55375d44a624097125e8798
+      internalID: -168053975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_141
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 195
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b85c73ccf021546a966db963896d6a
+      internalID: 1616855642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_142
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 195
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f730e32b1d24493458c4ed179294f7da
+      internalID: -889853030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_143
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 145
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759a48c800855e24e90e2efa3124c77e
+      internalID: -162738514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_144
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 145
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaecb6a2c2134c4db600a69cbb77c38
+      internalID: -1939615895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_145
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 145
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f823a0198c0159649b4a8c0290b4eee1
+      internalID: 1719318839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_146
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 145
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef083562a4fb774d97ca36ada659a24
+      internalID: -1741955103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_147
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 145
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0211c9ed47dcda43bffd9104f32dbd1
+      internalID: -381714015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_148
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 145
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928ecc60698db334faff3e8d693b1055
+      internalID: -1876908034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_149
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 145
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08801a21d1560d4c9629d9ff16021d4
+      internalID: 1128295600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_150
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 145
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6c04354447bb54d80d4bbfbf8be324
+      internalID: 1140296214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_151
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 145
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57d68451ea30854388028a25e767dea
+      internalID: 1934094625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_152
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 145
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47730f5e8f00d8a4586863aedbbb5caa
+      internalID: 404369384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_153
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 145
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802b9aa9bfa09354fbe0cd2960e49a41
+      internalID: -995331410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_154
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 145
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb290d3c69e52f47818f57e30c7b2ce
+      internalID: -2102188769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_155
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 145
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888c6a4a779e5264c9afe4291e76eba2
+      internalID: 892675490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 145
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ec2566c19468841bdfd45037079b89
+      internalID: -410847082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_157
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed41d35638ec6a449f9cc464211ab39
+      internalID: -699347727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85fae4898e3dcf47b349e4b617beb65
+      internalID: 718462584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_159
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212a8642b8478fa44b945f473fdd1df5
+      internalID: -1734111370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_160
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29708aa7140b4ba4ebcf89fcf1475e16
+      internalID: 1584410946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_161
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8164b9c9f021564791e2cad0eec2c0f
+      internalID: -986628508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_162
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092c0e18498073948ab3fcde05995ec9
+      internalID: 860430588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_163
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d523d77b9c4fef2459e61885e4ae070d
+      internalID: -2079295057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_164
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af409873b1eec9498c1e6391629ef9a
+      internalID: 1294084881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_165
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5da6c7cf67b37f4c883cf07674e73e7
+      internalID: -541602279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_166
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1ac12089cfb0e459181e94042c3220
+      internalID: 1997999427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_167
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73099eacbcfdf4b429303b868c0019d7
+      internalID: -786867678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_168
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c3764016630bf4885df4446df536db
+      internalID: 1715389171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_169
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ca51762411b4c428dc2b9c03b6df5e
+      internalID: -1318416577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_170
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 95
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ae8886bf373f942a948aaa0651d3de
+      internalID: -132939894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_171
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6ae44748fea7c49923ae78663d9253
+      internalID: 1456673289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_172
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44091ad71db7af34580c5e7bb837528a
+      internalID: -625470561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_173
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8214f9923b8ce9647ab6b9474d5321e7
+      internalID: 2122103468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_174
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04201be5f6eed748b3299bb7b892d2e
+      internalID: 757953843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_175
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04713c41fadd8248ab88b791e5991ed
+      internalID: 2052011761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_176
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43d02a463238f94895d68adeb130b6d
+      internalID: -126636148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_177
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e953a8b98df91469d063de2305a272
+      internalID: -732359527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_178
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8370db8b2e1bb94429dfab903597baa9
+      internalID: -2035019341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_179
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16225d4a58c1a4e4baa5e8db754da5fe
+      internalID: 574261968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_180
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54ed135eea231442bbc32fe4b53ab60
+      internalID: -807020602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_181
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c644e07db620a7a44a270a8fe352552f
+      internalID: -1837904771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_182
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a37e87c501306468afdbe7ef8c534e
+      internalID: -759973769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_183
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589e2d1bf8d01e84d86d8eb8e98cd487
+      internalID: -1010064223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anyrgb.com_184
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 45
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46bfaaded48e46469fc59b98f1ac456
+      internalID: -1876793445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      anyrgb.com_0: -1493456490
+      anyrgb.com_1: 1977182864
+      anyrgb.com_10: 365568175
+      anyrgb.com_100: -456786372
+      anyrgb.com_101: 988415975
+      anyrgb.com_102: 1021388074
+      anyrgb.com_103: -186172617
+      anyrgb.com_104: -476651589
+      anyrgb.com_105: 897092887
+      anyrgb.com_106: -1376101161
+      anyrgb.com_107: 239509860
+      anyrgb.com_108: -1462462012
+      anyrgb.com_109: 1195528977
+      anyrgb.com_11: 1349350779
+      anyrgb.com_110: 2070934221
+      anyrgb.com_111: -708869534
+      anyrgb.com_112: 1967724191
+      anyrgb.com_113: -668296371
+      anyrgb.com_114: -60808007
+      anyrgb.com_115: 873669497
+      anyrgb.com_116: 2110784567
+      anyrgb.com_117: 2164038
+      anyrgb.com_118: -1152141836
+      anyrgb.com_119: -502622776
+      anyrgb.com_12: -2147280756
+      anyrgb.com_120: -2047859370
+      anyrgb.com_121: 94006258
+      anyrgb.com_122: -1479134676
+      anyrgb.com_123: 1716052138
+      anyrgb.com_124: -787753899
+      anyrgb.com_125: -1557563025
+      anyrgb.com_126: -1423627493
+      anyrgb.com_127: -272082716
+      anyrgb.com_128: -954254018
+      anyrgb.com_129: -262941885
+      anyrgb.com_13: 1295091038
+      anyrgb.com_130: 1252775852
+      anyrgb.com_131: -345439750
+      anyrgb.com_132: -1610762485
+      anyrgb.com_133: -140707270
+      anyrgb.com_134: -1334332386
+      anyrgb.com_135: 1858741050
+      anyrgb.com_136: 1738086815
+      anyrgb.com_137: 1326413401
+      anyrgb.com_138: -1349876364
+      anyrgb.com_139: 1180685487
+      anyrgb.com_14: -1466666343
+      anyrgb.com_140: -168053975
+      anyrgb.com_141: 1616855642
+      anyrgb.com_142: -889853030
+      anyrgb.com_143: -162738514
+      anyrgb.com_144: -1939615895
+      anyrgb.com_145: 1719318839
+      anyrgb.com_146: -1741955103
+      anyrgb.com_147: -381714015
+      anyrgb.com_148: -1876908034
+      anyrgb.com_149: 1128295600
+      anyrgb.com_15: 666322357
+      anyrgb.com_150: 1140296214
+      anyrgb.com_151: 1934094625
+      anyrgb.com_152: 404369384
+      anyrgb.com_153: -995331410
+      anyrgb.com_154: -2102188769
+      anyrgb.com_155: 892675490
+      anyrgb.com_156: -410847082
+      anyrgb.com_157: -699347727
+      anyrgb.com_158: 718462584
+      anyrgb.com_159: -1734111370
+      anyrgb.com_16: -2029581011
+      anyrgb.com_160: 1584410946
+      anyrgb.com_161: -986628508
+      anyrgb.com_162: 860430588
+      anyrgb.com_163: -2079295057
+      anyrgb.com_164: 1294084881
+      anyrgb.com_165: -541602279
+      anyrgb.com_166: 1997999427
+      anyrgb.com_167: -786867678
+      anyrgb.com_168: 1715389171
+      anyrgb.com_169: -1318416577
+      anyrgb.com_17: 1549527431
+      anyrgb.com_170: -132939894
+      anyrgb.com_171: 1456673289
+      anyrgb.com_172: -625470561
+      anyrgb.com_173: 2122103468
+      anyrgb.com_174: 757953843
+      anyrgb.com_175: 2052011761
+      anyrgb.com_176: -126636148
+      anyrgb.com_177: -732359527
+      anyrgb.com_178: -2035019341
+      anyrgb.com_179: 574261968
+      anyrgb.com_18: -763582352
+      anyrgb.com_180: -807020602
+      anyrgb.com_181: -1837904771
+      anyrgb.com_182: -759973769
+      anyrgb.com_183: -1010064223
+      anyrgb.com_184: -1876793445
+      anyrgb.com_19: -200900398
+      anyrgb.com_2: 1219895083
+      anyrgb.com_20: -1882603288
+      anyrgb.com_21: -1561165692
+      anyrgb.com_22: -1969747884
+      anyrgb.com_23: -118981337
+      anyrgb.com_24: 1863405473
+      anyrgb.com_25: -971396278
+      anyrgb.com_26: -1018531738
+      anyrgb.com_27: -1304764161
+      anyrgb.com_28: 748244671
+      anyrgb.com_29: -97762437
+      anyrgb.com_3: -273383468
+      anyrgb.com_30: 2062399851
+      anyrgb.com_31: 904311112
+      anyrgb.com_32: -626913786
+      anyrgb.com_33: 2063254179
+      anyrgb.com_34: -2076310919
+      anyrgb.com_35: 2065100913
+      anyrgb.com_36: 1694489469
+      anyrgb.com_37: -1401560796
+      anyrgb.com_38: 412854241
+      anyrgb.com_39: 1770170530
+      anyrgb.com_4: -815324071
+      anyrgb.com_40: -913137023
+      anyrgb.com_41: 728374628
+      anyrgb.com_42: 127144478
+      anyrgb.com_43: -107555389
+      anyrgb.com_44: -1114431630
+      anyrgb.com_45: -564897091
+      anyrgb.com_46: -612932584
+      anyrgb.com_47: -1420572869
+      anyrgb.com_48: -1852196707
+      anyrgb.com_49: 2033073926
+      anyrgb.com_5: -176091056
+      anyrgb.com_50: -1105988030
+      anyrgb.com_51: 1024484544
+      anyrgb.com_52: 163838283
+      anyrgb.com_53: -229379156
+      anyrgb.com_54: 1254493823
+      anyrgb.com_55: 661247791
+      anyrgb.com_56: -643690096
+      anyrgb.com_57: 659165273
+      anyrgb.com_58: 1982185828
+      anyrgb.com_59: 1345102817
+      anyrgb.com_6: 1368061945
+      anyrgb.com_60: -1535475405
+      anyrgb.com_61: -426316937
+      anyrgb.com_62: 1078038819
+      anyrgb.com_63: 1370062184
+      anyrgb.com_64: 1200347604
+      anyrgb.com_65: -1315534739
+      anyrgb.com_66: 1124271654
+      anyrgb.com_67: -1874559800
+      anyrgb.com_68: -2035023247
+      anyrgb.com_69: 2101895858
+      anyrgb.com_7: -505722183
+      anyrgb.com_70: 1701113140
+      anyrgb.com_71: -182817141
+      anyrgb.com_72: 1348630407
+      anyrgb.com_73: -1571907789
+      anyrgb.com_74: -118237011
+      anyrgb.com_75: -505164296
+      anyrgb.com_76: 1227608400
+      anyrgb.com_77: -1025893018
+      anyrgb.com_78: 1432845690
+      anyrgb.com_79: 1659607955
+      anyrgb.com_8: -2026673047
+      anyrgb.com_80: 885849513
+      anyrgb.com_81: 2003494788
+      anyrgb.com_82: 94812706
+      anyrgb.com_83: 1004006408
+      anyrgb.com_84: -298760451
+      anyrgb.com_85: -1952550415
+      anyrgb.com_86: 437861695
+      anyrgb.com_87: 605428137
+      anyrgb.com_88: -1140044067
+      anyrgb.com_89: -1108461527
+      anyrgb.com_9: -692722066
+      anyrgb.com_90: 413597644
+      anyrgb.com_91: -447699933
+      anyrgb.com_92: 1181319714
+      anyrgb.com_93: -264239814
+      anyrgb.com_94: 806002795
+      anyrgb.com_95: -587789144
+      anyrgb.com_96: 1214582871
+      anyrgb.com_97: -3580586
+      anyrgb.com_98: 1829747139
+      anyrgb.com_99: 1673755490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
