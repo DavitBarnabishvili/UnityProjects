@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CoinTrigger
+  - LevelMusic
+  - MenuMusic
+  - Ground
+  - Pacifier
+  - Health
+  - Trampoline
+  - HealthBar
+  - Death
+  - Truck
+  - Collectable
+  - Enemy
+  - Ice
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - 
+  - player
+  - PostProcessing
+  - gumba1
+  - gumba2
+  - gumba3
+  - gumba4
+  - gumba5
+  - gumba6
+  - traki
+  - jumpableGround
+  - yleoba
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
