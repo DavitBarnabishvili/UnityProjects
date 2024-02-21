@@ -15,7 +15,7 @@ public class CursorChange : MonoBehaviour
     {
         if (SceneManager.GetActiveScene().name != "Menu" && !PauseMenuScript.GameIsPaused)
         {
-            Debug.Log("Cursor Hidden?");
+            Debug.Log("Cursor Hidden");
             Cursor.visible = false;
         }
         else {

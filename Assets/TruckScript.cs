@@ -51,8 +51,11 @@ public class TruckScript : MonoBehaviour
             {
                 us.SetActive(false);
             }
+            float startVolume = audioSource1.volume;
             audioSource1.Play();
+            audioSource1.volume = startVolume * 0.5f;
             audioSource2.Play();
+            audioSource2.volume = startVolume * 0.5f;
         }
     }
 

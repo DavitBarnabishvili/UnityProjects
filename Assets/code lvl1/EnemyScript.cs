@@ -11,7 +11,7 @@ public class EnemyScript : MonoBehaviour
         if (collision.gameObject.CompareTag("Death"))
         {
             // Play the collision sound
-            AudioSource.PlayClipAtPoint(collisionSound, transform.position);
+            AudioSource.PlayClipAtPoint(collisionSound, transform.position, 50f);
 
             // Destroy the enemy
             Destroy(gameObject);
