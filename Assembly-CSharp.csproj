@@ -74,6 +74,7 @@
     <Compile Include="Assets\code lvl1\EndTriggerLevel1.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
+    <Compile Include="Assets\MusicController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
     <Compile Include="Assets\Grass And Flowers Pack 1\Example Scene\SimpleTextureDrawing.cs" />
     <Compile Include="Assets\LevelManagers\LM5.cs" />
@@ -169,6 +170,7 @@
     <Compile Include="Assets\MainMenuScript.cs" />
     <Compile Include="Assets\Cainos\Third Party\Lucid Editor\Runtime\Attributes\IndentAttribute.cs" />
     <Compile Include="Assets\Cainos\Third Party\Lucid Editor\Runtime\Attributes\ButtonAttribute.cs" />
+    <Compile Include="Assets\EndTriggerCreditScene.cs" />
     <Compile Include="Assets\code lvl1\HealthBar.cs" />
     <Compile Include="Assets\Cainos\Pixel Art Platformer - Village Props\Script\Chest.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />

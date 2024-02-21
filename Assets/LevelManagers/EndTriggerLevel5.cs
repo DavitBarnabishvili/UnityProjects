@@ -15,6 +15,6 @@ public class EndingTriggerLevel5 : MonoBehaviour
 
     private void LoadNextLevel()
     {
-        SceneManager.LoadScene("VideoLevel6");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }

@@ -15,30 +15,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Level 1 (journey).unity
     guid: 90cc01820a2d8e64d97768f9e6e661b2
   - enabled: 1
-    path: Assets/Scenes/VideoLevel2.unity
-    guid: 49226fa473c21fb45b260c699a4d9237
-  - enabled: 1
     path: Assets/Scenes/Level 2 (signagi).unity
     guid: a1a394e937d58224a93a1fe6db7d10f1
-  - enabled: 1
-    path: Assets/Scenes/VideoLevel3.unity
-    guid: 65b04eace29bc74428a09148586c3902
   - enabled: 1
     path: Assets/Scenes/Level 3 (didgori).unity
     guid: 119bfb9da73fc0247a8afad82a319241
   - enabled: 1
-    path: Assets/Scenes/VideoLevel4.unity
-    guid: 35e7f7db325eb774bbda106012e540da
-  - enabled: 1
     path: Assets/Scenes/Level 4 (kazbegi).unity
     guid: 6dcda6e5d58388d43b04eb3df40488d1
-  - enabled: 1
-    path: Assets/Scenes/VideoLevel5.unity
-    guid: 1d24367ea7c1c9f4c85d246a8a982cf6
   - enabled: 1
     path: Assets/Scenes/Level 5 (baxmaro).unity
     guid: 5ab1fa0d1b4e9dd49843a58718a3771a
   - enabled: 1
-    path: Assets/Scenes/VideoLevel6.unity
-    guid: 5b1999f7addb0b04386871d62c98dac1
+    path: Assets/Scenes/End Credits.unity
+    guid: ced05b5cde3a0814fb338e6352293631
   m_configObjects: {}

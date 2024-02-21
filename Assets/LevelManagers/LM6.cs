@@ -16,11 +16,11 @@ public class LM6 : MonoBehaviour
     void OnVideoEnd(VideoPlayer vp)
     {
         Debug.Log("Video ended!");
-        //LoadNextLevel();
+        LoadNextLevel();
     }
 
     void LoadNextLevel()
     {
-        SceneManager.LoadScene("Level 6 (karting)");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }
